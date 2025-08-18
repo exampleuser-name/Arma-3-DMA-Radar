@@ -5,10 +5,11 @@ How use?
 - https://drive.google.com/drive/folders/1-OMIlWpnOQ3mFxtsOFuNvOq-IhP34kAL?usp=sharing
 
 Functions
-  -⬆️: - Enlarge an object
-  -⬇️: - reduce the object
-  -Show name,transport
-  -Swap maps
+-⬆️: - Enlarge an object
+-⬇️: - reduce the object
+-Show name,transport
+-Swap maps
+
 
 
 The functionality for drawing maps and all objects is written in python. 
