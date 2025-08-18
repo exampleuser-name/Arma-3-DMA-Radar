@@ -7,6 +7,10 @@ A memory reader is written in C++. First, run the C++ code, then run the python 
 
 
 
+https://github.com/user-attachments/assets/0f79ab93-474c-4441-83d6-fd37d4c66743
+
+
+
 
 # DMALibrary
 Simple but extensive library for DMA users
