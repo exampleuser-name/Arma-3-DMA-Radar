@@ -15,8 +15,8 @@ Functions
 - Black dot-the player is eliminated
 
 
-The functionality for drawing maps and all objects is written in python. 
-A memory reader is written in C++. First, run the C++ code, then run the python code.
+The functionality for drawing maps and all objects is written in python. A memory reader is written in C++. 
+- First, run the C++ code, then run the python code.
 
 
 
