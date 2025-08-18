@@ -4,8 +4,11 @@ How use?
 -Download the maps and transfer them to C:\Arm
 - https://drive.google.com/drive/folders/1-OMIlWpnOQ3mFxtsOFuNvOq-IhP34kAL?usp=sharing
 
--⬆️: - Enlarge an object
--⬇️: - reduce the object
+Functions
+  -⬆️: - Enlarge an object
+  -⬇️: - reduce the object
+  -Show name,transport
+  -Swap maps
 
 
 The functionality for drawing maps and all objects is written in python. 
