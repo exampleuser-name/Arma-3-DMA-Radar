@@ -9,7 +9,9 @@ Functions
 - ⬇️: - reduce the object
 - Show name,transport
 - Swap maps
-
+- Where is the player looking at
+- Yellow local player(you)
+- Follow camera
 
 
 The functionality for drawing maps and all objects is written in python. 
