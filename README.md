@@ -10,7 +10,7 @@ Functions
 - Show name,transport
 - Swap maps
 - Where is the player looking at
-- Yellow local player(you)
+- Yellow-local player(you)
 - Follow camera
 
 
