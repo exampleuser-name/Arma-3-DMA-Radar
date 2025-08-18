@@ -12,6 +12,7 @@ Functions
 - Where is the player looking at
 - Yellow-local player(you)
 - Follow camera
+- Black dot-the player is eliminated
 
 
 The functionality for drawing maps and all objects is written in python. 
