@@ -1,3 +1,13 @@
+How use?
+Move folder "Arm" in C:\
+Download the maps and transfer them to C:\Arm
+
+The functionality for drawing maps and all objects is written in python. 
+A memory reader is written in C++. First, run the C++ code, then run the python code.
+
+
+
+
 # DMALibrary
 Simple but extensive library for DMA users
 
