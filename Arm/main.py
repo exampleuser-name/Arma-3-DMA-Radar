@@ -382,7 +382,7 @@ if __name__ == '__main__':
 
     btn_altis = QPushButton("Altis")
     btn_malden = QPushButton("Malden")
-    btn_altis_amazing = QPushButton("Altis Amazing")
+    btn_altis_amazing = QPushButton("Altis River")
 
     def switch_to_altis():
         viewer.current_map = 'altis'
@@ -461,5 +461,6 @@ if __name__ == '__main__':
     main_widget.setWindowTitle('dev')
     main_widget.resize(1000, 600)
     main_widget.show()
+
 
     sys.exit(app.exec_())
